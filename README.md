@@ -13,6 +13,7 @@ Build Status
 ------------
 
 [![Appveyor build status](https://ci.appveyor.com/api/projects/status/github/notepad-plus-plus/notepad-plus-plus?branch=master&svg=true)](https://ci.appveyor.com/project/donho/notepad-plus-plus)
+[![GitHub version](https://badge.fury.io/gh/notepad-plus-plus%2Fnotepad-plus-plus.svg)](https://badge.fury.io/gh/notepad-plus-plus%2Fnotepad-plus-plus)
 
 To build Notepad++ from source:
 -------------------------------
